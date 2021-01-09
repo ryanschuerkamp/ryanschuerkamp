@@ -19,5 +19,7 @@ I recently completed my first semester of college and am at the sophomore level 
 
 I'm currently teaching myself NumPy, Pandas, Machine Learning, and Quantitative Finance and am working on machine learning research with one of my computer science professors. 
 
+I'm interested in learning more about the above topics and want to try and implement my own trading bot. 
+
 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/ryan-schuerkamp/ or email me at ryanschuerkamp@gmail.com.
 

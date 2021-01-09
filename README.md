@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ryan 👋. 
 
 <!--
 **ryanschuerkamp/ryanschuerkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I recently completed my first semester of college and am at the sophomore level for progression into my computer science major and junior level for progression into my data science and statistics major. 
+
+I'm currently teaching myself NumPy, Pandas, Machine Learning, and Quantitative Finance and am working on machine learning research with one of my computer science professors. 
+
+Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/ryan-schuerkamp/ or email me at ryanschuerkamp@gmail.com.
+

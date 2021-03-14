@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Sophomore majoring in Computer Science, Data Science and Statistics, and Mathematics. 
+I am majoring in Computer Science, Data Science and Statistics, and Mathematics. 
 
 I'm currently teaching myself NumPy, Pandas, Machine Learning, and Quantitative Finance and am working on machine learning research with one of my computer science professors. 
 

@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am majoring in Computer Science, Data Science and Statistics, and Mathematics. 
+I love solving challenging problems. I am a rising Sophomore at Miami University majoring in Computer Science, Data Science and Statistics, and Mathematics. Currently, I am interning at [Joot](https://joot.io/) as a Software Engineer and researching applying machine learning to cybersecurity.
 
-I'm currently teaching myself NumPy, Pandas, Machine Learning, and Quantitative Finance and am working on machine learning research with one of my computer science professors. 
+Seeing what problems I can solve and what I can build through code, the logic and planning that goes into a well-designed solution, and learning technologies to tackle new problems are just a few of the reasons I love coding and computer science. Whether it is working on web applications, writing scripts, or tuning machine learning algorithms, I enjoy the process of problem-solving.
 
-I'm interested in learning more about the above topics and want to try and implement my own trading bot. 
-
-Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/ryan-schuerkamp/ or email me at ryanschuerkamp@gmail.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-schuerkamp/), [email me](schuerr2@miamioh.edu), or checkout my [personal website](ryanschuerkamp.com).
 

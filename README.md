@@ -19,5 +19,5 @@ I love solving challenging problems. I am a rising Sophomore at Miami University
 
 Seeing what problems I can solve and what I can build through code, the logic and planning that goes into a well-designed solution, and learning technologies to tackle new problems are just a few of the reasons I love coding and computer science. Whether it is working on web applications, writing scripts, or tuning machine learning algorithms, I enjoy the process of problem-solving.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-schuerkamp/), [email me](mailto:schuerr2@miamioh.edu), or checkout my [personal website](https://ryanschuerkamp.com).
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-schuerkamp/), [email me](mailto:schuerr2@miamioh.edu), or checkout my [personal website](https://ryanschuerkamp.com).
 

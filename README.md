@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love solving challenging problems. I am a rising Sophomore at Miami University majoring in Computer Science, Data Science and Statistics, and Mathematics. Currently, I am interning at [Joot](https://joot.io/) as a Software Engineer and researching applying machine learning to cybersecurity.
+I love solving challenging problems. I am a Sophomore at Miami University majoring in Computer Science and Data Science/Statistics. 
 
-Seeing what problems I can solve and what I can build through code, the logic and planning that goes into a well-designed solution, and learning technologies to tackle new problems are just a few of the reasons I love coding and computer science. Whether it is working on web applications, writing scripts, or tuning machine learning algorithms, I enjoy the process of problem-solving.
+Currently, I am taking a master's research course CSE 620 Network Analysis and Modeling. As a part of the course and CDC-funded research, I am analyzing a cognitive map of what makes children commit suicide. Last summer, I interned as a Software Engineer at Joot, a fintech startup. My experiences and coursework so far have helped me develop a solid foundation that I will continue to build off of in the coming years.
 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-schuerkamp/), [contact me](mailto:schuerr2@miamioh.edu), or check out my [personal website](https://ryanschuerkamp.com).
 

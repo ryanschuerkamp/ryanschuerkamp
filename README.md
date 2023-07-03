@@ -1,7 +1,17 @@
 ### Hi there, I'm Ryan 👋. 
+I am a rising senior at Miami University pursuing a B.S. and M.S. in Computer Science, a B.S. in Data Science and Statistics, and a minor in Mathematics. My research has focused on three main areas:
+1. Fuzzy Cognitive Maps (an interpretable graph-based simulation model)
+2. Network science and simulation for adolescent suicide prevention in collaboration with the Centers for Disease Control and Prevention (CDC)
+3. Machine learning for healthcare.
+   
+As a result of these three research areas, I am interested in trustworthy machine learning (interpretable, robust, and fair) and its healthcare applications. I plan on joining a Ph.D. program starting in the fall of 2024 to pursue these interests.
 
-I love solving challenging problems. I am a junior at Miami University pursuing a B.S. and M.S. in Computer Science, a B.S. in Data Science and Statistics, and a minor in Mathematics. I am looking for research internships and would love to connect with successful professionals. Additionally, I plan on pursuing a Ph.D. in computer science with a research focus in simulation or machine learning and would love to connect with current or former Ph.D. students. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-schuerkamp/), [contact me](mailto:schuerr2@miamioh.edu), or check out my [personal website](https://ryanschuerkamp.com).
+At Miami, I am advised by [Professor Philippe Giabbanelli](https://miamioh.edu/profiles/cec/philippe-giabbanelli.html). This summer, I am interning with [Professor Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/) in the [Auton Lab](https://autonlab.org/) at Carnegie Mellon University and am developing a machine learning-based approach for resuscitation sufficiency analysis.
 
-After my first year, I interned as a Software Engineer at Joot, a fintech startup, gaining hands-on experience writing and shipping production-grade code. Last fall, I took a master's research course on Network Analysis and Modeling. As a part of the course and CDC-funded research, I analyzed a causal map of what makes adolescents commit suicide. This impactful experience ignited my passion for research. Last semester, I conducted a systematic review of different simulation models and submitted a 30-page research paper to a top computer science journal. Over the summer, I interned at Artisan Partners in Boston as a Quantitative Research Intern, further developing my analytical abilities and technical skills. My experiences and coursework have helped me develop a solid foundation that I will continue to build on in the coming years.
+Previously, I interned as a Quantitative Research Intern at Artisan Partners in Boston and as a Software Engineer at Joot, a fintech startup. I also worked on machine learning for cybersecurity with [Professor Suman Bhunia](https://sbhunia.me/).
 
-Last semester, I finished my master's thesis proposal, continued my research on simulation models, started two machine learning and computer vision projects, and worked on simulation software for the CDC. I have a love for and demonstrated commitment to research, three research articles under review, and will submit several more articles in the coming months. I am looking for research internships at universities, research labs, or tech companies. Ideally, I would work with experienced researchers to benefit from their mentorship and work on a large project for publication. This experience would be invaluable because I would explore my passion for research while gaining further research experience, making me a stronger candidate for Ph.D. programs and further developing relevant skills.
+Outside of work, I enjoy working out, cooking, hiking, and other hobbies, which you can read about on my [personal website](https://ryanschuerkamp.com/).
+
+Please feel free to get in touch. My email is schuerr2 at miamioh dot edu.
+
+P.S., most of my research code is elsewhere (e.g., [OSF](https://osf.io/n4cvg/) and [Zenodo](https://zenodo.org/record/7689513)). 

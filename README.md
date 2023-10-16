@@ -4,9 +4,9 @@ I am a rising senior at Miami University pursuing a B.S. and M.S. in Computer Sc
 2. Network science and simulation for adolescent suicide prevention in collaboration with the Centers for Disease Control and Prevention (CDC)
 3. Machine learning for healthcare.
    
-As a result of these three research areas, I am interested in trustworthy machine learning (interpretable, robust, and fair) and its healthcare applications. I plan on joining a Ph.D. program starting in the fall of 2024 to pursue these interests.
+As a result of these three research areas, I am interested in trustworthy machine learning (interpretable, robust, and fair) and its health applications. I plan on joining a Ph.D. program starting in the fall of 2024 to pursue these interests.
 
-At Miami, I am advised by [Professor Philippe Giabbanelli](https://miamioh.edu/profiles/cec/philippe-giabbanelli.html). This summer, I am interning with [Professor Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/) in the [Auton Lab](https://autonlab.org/) at Carnegie Mellon University and am developing a machine learning-based approach for resuscitation sufficiency analysis.
+At Miami, I am advised by [Professor Philippe Giabbanelli](https://giabbanelli.com/). This summer, I am interning with [Professor Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/) in the [Auton Lab](https://autonlab.org/) at Carnegie Mellon University and am developing a machine learning-based approach for resuscitation sufficiency analysis.
 
 Previously, I interned as a Quantitative Research Intern at Artisan Partners in Boston and as a Software Engineer at Joot, a fintech startup. I also worked on machine learning for cybersecurity with [Professor Suman Bhunia](https://sbhunia.me/).
 
